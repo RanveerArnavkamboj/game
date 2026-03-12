@@ -71,4 +71,35 @@ main{
    }
 .maincss{
      display:none;
-}
+   }
+   .t{
+     color:red;
+   }
+   .optionsafter{
+     display:none;
+   }
+   .options{
+     color:white;
+     display:flex;
+     height:100vh;
+     justify-content:center;
+     align-items:center;
+     flex-direction:column;
+       text-shadow:5px 5px 4px teal;
+   }
+   .b{
+     width:50px;
+     height:50px;
+     text-align:center;
+     padding:10px;
+     color:white;
+     background-color:teal;
+     border-radius:7px;
+     border:none;
+   }
+
+
+
+
+
+     
