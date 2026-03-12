@@ -1,4 +1,4 @@
-    <script>
+
 let options=document.querySelector(".options")
 let btnX=document.querySelector(".X")
 let btnO=document.querySelector(".O")
@@ -87,7 +87,7 @@ function  abled(){
     box.textContent=""
   })
 }
-    </script>
+
 
 
 
